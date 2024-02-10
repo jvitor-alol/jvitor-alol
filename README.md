@@ -1,19 +1,8 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
 <h3 align="center">A beginner Data Engineer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jvitor-alol&label=Profile%20views&color=0e75b6&style=flat" alt="jvitor-alol" /> </p>
 
 - 🌱 I’m currently learning **AWS**
-
-- 📫 How to reach me **jvitor.alol@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/jvitoralol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jvitoralol" height="30" width="40" /></a>
-<a href="https://fb.com/jvitor.ao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jvitor.ao" height="30" width="40" /></a>
-<a href="https://instagram.com/jvitor.alol" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jvitor.alol" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@bossun1998" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@bossun1998" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <!-- Linguagens e Frameworks -->
@@ -59,10 +48,24 @@
     </a>
 </p>
 
+<hr />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvitor-alol&show_icons=true&locale=en&layout=compact&theme=radical" alt="jvitor-alol" /></p>
+<div>
+    <img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=jvitor-alol&show_icons=true&locale=en&theme=radical" alt="jvitor-alol" />
+    &nbsp;
+    &nbsp;
+    <img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvitor-alol&show_icons=true&locale=en&layout=compact&theme=radical" alt="jvitor-alol" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jvitor-alol&show_icons=true&locale=en&theme=radical" alt="jvitor-alol" /></p>
+<div align="center">
+    <p><img align="center" style="height: auto; width: 55%;" src="https://github-readme-streak-stats.herokuapp.com/?user=jvitor-alol&theme=radical" alt="jvitor-alol" /></p>
+</div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jvitor-alol&theme=radical" alt="jvitor-alol" /></p>
+<hr />
 
+<div align="center"> 
+  <a href="https://linkedin.com/in/jvitoralol" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/jvitor.alol" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="mailto:jvitor.alol+contato@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.youtube.com/@bossun1998" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+</div>
