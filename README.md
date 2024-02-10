@@ -12,8 +12,6 @@
   <a href="https://www.youtube.com/@bossun1998" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-- 🌱 I’m currently learning **AWS**
-
 <h3 align="left">Languages and Tools:</h3>
 <!-- Linguagens e Frameworks -->
 <div align="left">
@@ -61,10 +59,10 @@
 <hr />
 
 <div>
-    <img style="height: auto; width: 55%;" src="https://github-readme-stats.vercel.app/api?username=jvitor-alol&show_icons=true&locale=en&theme=radical" alt="jvitor-alol" />
+    <img style="height: auto; width: 54%;" src="https://github-readme-stats.vercel.app/api?username=jvitor-alol&show_icons=true&locale=en&theme=radical" alt="jvitor-alol" />
     &nbsp;
     &nbsp;
-    <img style="height: auto; width: 40%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvitor-alol&show_icons=true&locale=en&layout=compact&theme=radical" alt="jvitor-alol" />
+    <img style="height: auto; width: 41%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvitor-alol&show_icons=true&locale=en&layout=compact&theme=radical" alt="jvitor-alol" />
 </div>
 
 <div align="center">
