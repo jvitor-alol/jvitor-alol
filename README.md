@@ -12,7 +12,21 @@
   <a href="https://www.youtube.com/@bossun1998" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
-<h3 align="left">Languages and Tools:</h3>
+<hr />
+
+<div>
+    <img style="height: auto; width: 54%;" src="https://github-readme-stats.vercel.app/api?username=jvitor-alol&show_icons=true&locale=en&theme=radical" alt="jvitor-alol" />
+    &nbsp;
+    &nbsp;
+    <img style="height: auto; width: 41%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvitor-alol&show_icons=true&locale=en&layout=compact&theme=radical" alt="jvitor-alol" />
+</div>
+
+<div align="center">
+    <p><img align="center" style="height: auto; width: 55%;" src="https://github-readme-streak-stats.herokuapp.com/?user=jvitor-alol&theme=radical" alt="jvitor-alol" /></p>
+</div>
+
+<hr />
+
 <!-- Linguagens e Frameworks -->
 <div align="left">
     <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
@@ -55,21 +69,6 @@
         <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
     </a>
 </div>
-
-<hr />
-
-<div>
-    <img style="height: auto; width: 54%;" src="https://github-readme-stats.vercel.app/api?username=jvitor-alol&show_icons=true&locale=en&theme=radical" alt="jvitor-alol" />
-    &nbsp;
-    &nbsp;
-    <img style="height: auto; width: 41%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvitor-alol&show_icons=true&locale=en&layout=compact&theme=radical" alt="jvitor-alol" />
-</div>
-
-<div align="center">
-    <p><img align="center" style="height: auto; width: 55%;" src="https://github-readme-streak-stats.herokuapp.com/?user=jvitor-alol&theme=radical" alt="jvitor-alol" /></p>
-</div>
-
-<hr />
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvitor-alol/jvitor-alol/output/github-contribution-grid-snake-dark.svg">
