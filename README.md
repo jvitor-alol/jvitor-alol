@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
 
 <div id="header" align="center">
-    <h3>A beginner Data Engineer</h3>
+    <h3>A Data Engineer</h3>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
