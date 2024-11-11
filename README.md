@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm João Vitor</h1>
 
 <div id="header" align="center">
-    <h3>A Data Engineer</h3>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
@@ -14,11 +13,13 @@
 
 <hr />
 
+
+<!-- Github Readme Stats -->
 <div>
     <img style="height: auto; width: 54%;" src="https://github-readme-stats.vercel.app/api?username=jvitor-alol&show_icons=true&locale=en&theme=radical" alt="jvitor-alol" />
     &nbsp;
     &nbsp;
-    <img style="height: auto; width: 41%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=jvitor-alol&show_icons=true&locale=en&layout=compact&theme=radical" alt="jvitor-alol" />
+    <img style="height: auto; width: 41%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor-alol&show_icons=true&locale=en&theme=radical&layout=compact" alt="jvitor-alol" />
 </div>
 
 <div align="center">
