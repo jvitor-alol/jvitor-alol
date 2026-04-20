@@ -29,6 +29,7 @@
 <hr />
 
 <!-- Linguagens e Frameworks -->
+<!--
 <div align="center">
     <a href="https://www.python.org" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/>
@@ -76,6 +77,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/>
     </a>
 </div>
+-->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jvitor-alol/jvitor-alol/output/github-contribution-grid-snake-dark.svg">
