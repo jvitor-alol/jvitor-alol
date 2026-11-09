@@ -15,12 +15,12 @@
 
 
 <!-- Github Readme Stats -->
-<div>
+<!-- <div>
     <img style="height: auto; width: 54%;" src="https://github-readme-stats.vercel.app/api?username=jvitor-alol&show_icons=true&locale=en&theme=radical" alt="jvitor-alol" />
     &nbsp;
     &nbsp;
     <img style="height: auto; width: 41%;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jvitor-alol&show_icons=true&locale=en&theme=radical&layout=compact" alt="jvitor-alol" />
-</div>
+</div> -->
 
 <div align="center">
     <p><img align="center" style="height: auto; width: 55%;" src="https://github-readme-streak-stats.herokuapp.com/?user=jvitor-alol&theme=radical" alt="jvitor-alol" /></p>
